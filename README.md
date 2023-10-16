@@ -69,4 +69,15 @@ they increase. This highlights the importance of temperature and rainfall in gro
 plenty of crops for the Indian population, and if possible, for export to other
 countries. Technology which regulates these variables so that they remain optimal for
 each crop should be developed to maximise crop yield.
+
+# Coordinator of Indian states vs Crop yield
+- There is a weak relationship between the coordinator and the yield.
+- There are some omissions such as: type of crop, year.
+- 9 states show high yield when compared to the majority of the states listed in the graph, which have relatively very low yield.
+- Some investigations are needed for the states of Goa, Puducherry, Kerala, West Bengal, Tamil Nadu, Assam, Andhra Pradesh, Karnataka and Telangana to find out the reasons why these states display high crop yield. This could be due to the properties of the crops, the quality of soil, etc.
+
+# Fertilizer vs Crop yield
+- There is no statistically significant relationship between the use of fertiliser and yield.
+- A strong correlation was found between Fertilizer used and Year.
+- There was a significant increase in fertilizer used in Indian.
        
