@@ -35,36 +35,36 @@ Group Members:
     
     
 # Temperature vs. Crop Yield
-Overall relationship: As temperature increases, crop yield increases.
-Details:
+Overall relationship: As temperature increases, crop yield increases. \n
+Details: \n
     - The relationship between temperature and each of the 5 most produced crops 
-      (according to main dataset) was analysed.
-    - The 5 crops analysed were rice, maize, moong, urad and groundnut.
+      (according to main dataset) was analysed. \n
+    - The 5 crops analysed were rice, maize, moong, urad and groundnut. \n
     - For rice, urad and groundnut, there was a statistically significant, moderate and
        positive correlation between temperature and crop yield. This indicates that for
-       these crops, crop yield tends to increase as temperature increases.
+       these crops, crop yield tends to increase as temperature increases. \n
     - For moong, the positive correlation was even stronger than of the first 3 mentioned.
-       This indicates that moong crop yield is likely to increase as temperature increases.
+       This indicates that moong crop yield is likely to increase as temperature increases. \n
     - However, for maize, the relationship between temperature and crop yield was
-       statistically insignificant.
+       statistically insignificant. \n
        
 # Rainfall vs. Crop Yield
-Overall relationship: As rainfall increases, crop yield increases.
-Details:
+Overall relationship: As rainfall increases, crop yield increases. \n
+Details: \n
     - The same 5 crops chosen during the temperature analysis were analysed again,
-       this time for rainfall's impacts on crop yield.
+       this time for rainfall's impacts on crop yield. \n
     - For rice, moong and urad, there was a statistically significant, moderate and
        positive correlation between rainfall and crop yield. This indicates that for
-       these crops, crop yield tends to increase as rainfall increases.
+       these crops, crop yield tends to increase as rainfall increases. \n
     - For groundnut, the positive correlation was even stronger than the other 3, indicating
-       that groundnut crop yield is likely to increase as rainfall increases.
+       that groundnut crop yield is likely to increase as rainfall increases. \n
     - For maize, while the relationship between maize crop yield and rainfall is 
-       statistically significant, it is also very weak.
+       statistically significant, it is also very weak. \n
        
 # Implications
-    - In terms of temperaure and rainfall, there is an observed increase in crop yield as
-       they increase. This highlights the importance of temperature and rainfall in growing
-       plenty of crops for the Indian population, and if possible, for export to other
-       countries. Technology which regulates these variables so that they remain optimal for
-       each crop should be developed to maximise crop yield.
+In terms of temperaure and rainfall, there is an observed increase in crop yield as
+they increase. This highlights the importance of temperature and rainfall in growing
+plenty of crops for the Indian population, and if possible, for export to other
+countries. Technology which regulates these variables so that they remain optimal for
+each crop should be developed to maximise crop yield.
        
