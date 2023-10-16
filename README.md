@@ -8,26 +8,63 @@ Group Members:
 - Nicholas Dale (falconpunch082)
 - Duc Trieu Pham (Lilydales)
 - Rajendra Bondili (rajbondili)
-- Chi Zhang
 
-# Description for crop_yield.csv file:
 
-    -Crop: The name of the crop cultivated.
+# Description for variables in crop_yield.csv:
+(This is our main dataset.)
 
-    -Crop_Year: The year in which the crop was grown.
+    - Crop: The name of the crop cultivated.
 
-    -Season: The specific cropping season (e.g., Kharif, Rabi, Whole Year).
+    - Crop_Year: The year in which the crop was grown.
 
-    -State: The Indian state where the crop was cultivated.
+    - Season: The specific cropping season (e.g., Kharif, Rabi, Whole Year).
 
-    -Area: The total land area (in hectares) under cultivation for the specific crop.
+    - State: The Indian state where the crop was cultivated.
 
-    -Production: The quantity of crop production (in metric tons).
+    - Area: The total land area (in hectares) under cultivation for the specific crop.
 
-    -Annual_Rainfall: The annual rainfall received in the crop-growing region (in mm).
+    - Production: The quantity of crop production (in metric tons).
 
-    -Fertilizer: The total amount of fertilizer used for the crop (in kilograms).
+    - Annual_Rainfall: The annual rainfall received in the crop-growing region (in mm).
 
-    -Pesticide: The total amount of pesticide used for the crop (in kilograms).
+    - Fertilizer: The total amount of fertilizer used for the crop (in kilograms).
 
-    -Yield: The calculated crop yield (production per unit area)
+    - Pesticide: The total amount of pesticide used for the crop (in kilograms).
+
+    - Yield: The calculated crop yield (production per unit area)
+    
+    
+# Temperature vs. Crop Yield
+Overall relationship: As temperature increases, crop yield increases.
+Details:
+    - The relationship between temperature and each of the 5 most produced crops 
+      (according to main dataset) was analysed.
+    - The 5 crops analysed were rice, maize, moong, urad and groundnut.
+    - For rice, urad and groundnut, there was a statistically significant, moderate and
+       positive correlation between temperature and crop yield. This indicates that for
+       these crops, crop yield tends to increase as temperature increases.
+    - For moong, the positive correlation was even stronger than of the first 3 mentioned.
+       This indicates that moong crop yield is likely to increase as temperature increases.
+    - However, for maize, the relationship between temperature and crop yield was
+       statistically insignificant.
+       
+# Rainfall vs. Crop Yield
+Overall relationship: As rainfall increases, crop yield increases.
+Details:
+    - The same 5 crops chosen during the temperature analysis were analysed again,
+       this time for rainfall's impacts on crop yield.
+    - For rice, moong and urad, there was a statistically significant, moderate and
+       positive correlation between rainfall and crop yield. This indicates that for
+       these crops, crop yield tends to increase as rainfall increases.
+    - For groundnut, the positive correlation was even stronger than the other 3, indicating
+       that groundnut crop yield is likely to increase as rainfall increases.
+    - For maize, while the relationship between maize crop yield and rainfall is 
+       statistically significant, it is also very weak.
+       
+# Implications
+    - In terms of temperaure and rainfall, there is an observed increase in crop yield as
+       they increase. This highlights the importance of temperature and rainfall in growing
+       plenty of crops for the Indian population, and if possible, for export to other
+       countries. Technology which regulates these variables so that they remain optimal for
+       each crop should be developed to maximise crop yield.
+       
