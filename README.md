@@ -79,6 +79,7 @@ each crop should be developed to maximise crop yield.
 - There is no statistically significant relationship between the use of fertiliser and yield.
 - A strong correlation was found between Fertilizer used and Year.
 - There was a significant increase in fertilizer used in Indian.
+<<<<<<< HEAD
 
 # Relationship of Seasons and Crop Production/Yield 
 
@@ -93,3 +94,6 @@ Below Valuable insights for informed decision-making.
 •	Relationship between pesticides with crop production/yield - showing the impact of pesticides on agricultural crop yield across all the states.
 •	Geomap - To show the overall impact of Annual rainfall on crop yield across all the Indian states.
 
+=======
+       
+>>>>>>> main
