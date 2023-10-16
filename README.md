@@ -9,7 +9,6 @@ Group Members:
 - Duc Trieu Pham (Lilydales)
 - Rajendra Bondili (rajbondili)
 
-
 # Description for variables in crop_yield.csv:
 (This is our main dataset.)
 
@@ -80,4 +79,21 @@ each crop should be developed to maximise crop yield.
 - There is no statistically significant relationship between the use of fertiliser and yield.
 - A strong correlation was found between Fertilizer used and Year.
 - There was a significant increase in fertilizer used in Indian.
+<<<<<<< HEAD
+
+# Relationship of Seasons and Crop Production/Yield 
+
+- Analyzing crop yields across Indian states, showcasing regional agricultural productivity variations due to climatic conditions
+  (seasons,rainfall,temperature,pesticides,fertilizers).
+
+Below Valuable insights for informed decision-making.
+•	Crop yield varies across seasons - showing seasons having highest crop yield and lowest crop yield.
+•	Best Crop - showing the crop having high yield value from 1997 to 2020.
+•	Top 5 Crops in Kharif season – Showing 5 top crops that can be suggested to max yield in Kharif season. 
+•	Relationship between rainfall and crop yield - showing highest crop yield at the recorded annual rainfall(mm) across all the states.
+•	Relationship between pesticides with crop production/yield - showing the impact of pesticides on agricultural crop yield across all the states.
+•	Geomap - To show the overall impact of Annual rainfall on crop yield across all the Indian states.
+
+=======
        
+>>>>>>> main
